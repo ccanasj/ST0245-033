@@ -1,4 +1,3 @@
-package rectangulos;
 
 public class Recursion1 {
 
