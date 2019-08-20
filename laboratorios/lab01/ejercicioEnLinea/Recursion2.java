@@ -1,5 +1,3 @@
-package rectangulos;
-
 public class Recursion2 {
 
     public boolean groupSum6(int start, int[] nums, int target) {
